@@ -1,1 +1,1 @@
-Welcome to the http-add-on wiki!
+Welcome to the wiki for the KEDA HTTP Addon! You'll find documentation here spanning from getting started, using the HTTP Addon in production, setting up your development environment, and more.
