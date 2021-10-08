@@ -1,5 +1,3 @@
-# The Design of HTTP-Add-On
-
 This project is primarily a composition of mostly independent components. We've chosen this design so that you can swap out components as you want/need to while still achieving (roughly) the same functionality.
 
 ## High Level Components
