@@ -45,4 +45,4 @@ The net effect is that the Addon scales up when your app grows to more pending r
 
 Although the HTTP add on is very configurable and supports multiple different deployments, the below diagram is the most common architecture that is shipped by default.
 
-![architecture diagram](./images/arch.png)
+![KEDA HTTP Addon Architecture Diagram](https://github.com/kedacore/http-add-on/blob/c13c1d3aac7f071546555d5d132ccfee04d88cce/docs/images/arch.png)
