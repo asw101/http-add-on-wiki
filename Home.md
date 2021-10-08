@@ -7,7 +7,11 @@ followed by our [getting started](https://github.com/kedacore/http-add-on/wiki/G
 
 ## About This Project
 
-If you'd like to learn more about this project, we recommend our [scope of functionality](https://github.com/kedacore/http-add-on/wiki/Project-Scope) document and [common use cases](https://github.com/kedacore/http-add-on/wiki/Common-Use-Cases) documents. And if you're interested in getting deeper into project details, we have a [document for that too](https://github.com/kedacore/http-add-on/wiki/Architecture).
+If you'd like to learn more about this project, we recommend our [scope of functionality](https://github.com/kedacore/http-add-on/wiki/Project-Scope) document and [common use cases](https://github.com/kedacore/http-add-on/wiki/Common-Use-Cases) documents.
+
+For deeper project details, we have a [document for that too](https://github.com/kedacore/http-add-on/wiki/Architecture).
+
+If you have questions that the previous documents didn't answer, please see our [FAQ](https://github.com/kedacore/http-add-on/wiki/frequently-asked-questions) page, which includes not only frequently asked questions about this project, but also instructions on how to reach out to the developers of this project.
 
 ## Contributing
 
